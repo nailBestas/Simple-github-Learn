@@ -1,7 +1,5 @@
 bu ilk deneme sayfasıdır.
-dene ve yap
-son defa eklendi.
-dode sabiye .dosya içinde değişiklik yapıldı
-babo idris
 
-test branch line edit
+test branch added line
+
+test bracnh added line 2
