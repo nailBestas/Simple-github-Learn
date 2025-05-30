@@ -5,3 +5,6 @@ test branch added line
 test bracnh added line 2
 
 conflict behaviour
+main branch line added
+
+Conflisct Branch v2 test
